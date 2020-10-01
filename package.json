@@ -2,7 +2,6 @@
   "homepage": "https://liatdavid2.github.io/report_app/",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@babel/core": "7.1.0",
     "@ckeditor/ckeditor5-build-decoupled-document": "^11.2.0",
